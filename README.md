@@ -4,11 +4,20 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ```ascii
-█▀▀ █░█ █▀▀ █▀▀ █▄▀ █▀▄▀█ ▄▀█ ▀█▀ █▀▀
-█▄▄ █▀█ ██▄ █▄▄ █░█ █░▀░█ █▀█ ░█░ ██▄
+█░█ █▄░█ █▀█ █▀▀ █▄░█ █▀▄ ▀█▀ 
+█▀█ █░▀█ █▀▄ ██▄ █░▀█ █▄▀ ░█░ 
+
+█▄█ █▀█ ▄▀█ █▀█ █▀▀ █░█ █▀▀ ▀█▀ █▀▀ 
+░█░ █▀▄ █▀█ █▀▄ ██▄ █▀█ █▄▄ ░█░ ██▄
 ```
 
 A strategic multiplayer number guessing game where players compete to get closest to a target number while trying to predict their opponents' choices.
+
+## 🙏 Acknowledgments
+
+- Inspired by Alice in borderland season 2 King of Diamonds Game (Math Game)
+- Built with Python and Colorama
+- Special thanks to all contributors
 
 ## 🌟 Features
 
@@ -86,18 +95,6 @@ Contributions are welcome! Here's how you can help:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-**Deepanshu Chhikara** - [@Deepanshu-Chhikara08](joe.kd608@gmail.com)
-
-Project Link: [https://github.com/yourusername/the-ultimate-number-strategy-game](https://github.com/yourusername/the-ultimate-number-strategy-game)
-
-## 🙏 Acknowledgments
-
-- Inspired by game theory concepts
-- Built with Python and Colorama
-- Special thanks to all contributors
 
 ---
 
