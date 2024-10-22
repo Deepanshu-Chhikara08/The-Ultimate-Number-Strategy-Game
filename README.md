@@ -89,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Deepanshu Chhikara** - [@yourusername](https://twitter.com/yourusername)
+**Deepanshu Chhikara** - [@Deepanshu-Chhikara08](joe.kd608@gmail.com)
 
 Project Link: [https://github.com/yourusername/the-ultimate-number-strategy-game](https://github.com/yourusername/the-ultimate-number-strategy-game)
 
